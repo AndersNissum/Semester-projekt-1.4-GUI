@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bdda0e4-a37d-4a27-8076-00f5d682fb43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Semester-projekt-1.4-GUI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester-projekt-1.4-GUI-fd20ba8e3d643b6f8e6cc7d7139f7aa70ab2e5b5/WorldOfZuulProject/src/main/java/com/example/test/GameZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester-projekt-1.4-GUI-fd20ba8e3d643b6f8e6cc7d7139f7aa70ab2e5b5/WorldOfZuulProject/src/main/java/com/example/test/GameZuulApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

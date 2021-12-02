@@ -121,6 +121,70 @@ public class GameZuulApplication extends Application {
         room05Player.setSmooth(true);
         room05Player.setCache(true);
 
+        //Items til de forskellige rum
+        ImageView firstItem = new ImageView();
+        firstItem.setImage(note);
+        firstItem.setFitWidth(ITEM_SIZE);
+        firstItem.setX(300);
+        firstItem.setY(300);
+        firstItem.setPreserveRatio(true);
+
+        ImageView secondItem = new ImageView();
+        secondItem.setImage(note);
+        secondItem.setFitWidth(ITEM_SIZE);
+        secondItem.setX(300);
+        secondItem.setY(300);
+        secondItem.setPreserveRatio(true);
+
+        ImageView thirdItem = new ImageView();
+        thirdItem.setImage(note);
+        thirdItem.setFitWidth(ITEM_SIZE);
+        thirdItem.setX(300);
+        thirdItem.setY(300);
+        thirdItem.setPreserveRatio(true);
+
+
+        //Personer til de forskellige rum
+
+        ImageView char1 = new ImageView();
+        char1.setImage(characterIMG);
+        char1.setX(600);
+        char1.setY(600);
+        char1.setFitHeight(PERSON_SIZE);
+        char1.setFitWidth(PERSON_SIZE);
+        char1.setPreserveRatio(true);
+        char1.setSmooth(true);
+        char1.setCache(true);
+
+
+        ImageView char2 = new ImageView();
+        char2.setImage(characterIMG2);
+        char2.setX(600);
+        char2.setY(600);
+        char2.setFitHeight(PERSON_SIZE);
+        char2.setFitWidth(PERSON_SIZE);
+        char2.setPreserveRatio(true);
+        char2.setSmooth(true);
+        char2.setCache(true);
+
+        ImageView char3 = new ImageView();
+        char3.setImage(characterIMG3);
+        char3.setX(600);
+        char3.setY(600);
+        char3.setFitHeight(PERSON_SIZE);
+        char3.setFitWidth(PERSON_SIZE);
+        char3.setPreserveRatio(true);
+        char3.setSmooth(true);
+        char3.setCache(true);
+
+        ImageView char4 = new ImageView();
+        char4.setImage(characterIMG4);
+        char4.setX(600);
+        char4.setY(600);
+        char4.setFitHeight(PERSON_SIZE);
+        char4.setFitWidth(PERSON_SIZE);
+        char4.setPreserveRatio(true);
+
         //Circle: this is just a Circle for testing
         Circle circle = new Circle();
         circle.setCenterX(500);
